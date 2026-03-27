@@ -1,7 +1,7 @@
 #include "logic.h"
 
 //developing time: 22 minutes
-//best case: O(N)
+//best case: O(1)
 //worst case: O(N)
 
 int main() {
