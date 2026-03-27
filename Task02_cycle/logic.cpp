@@ -2,7 +2,7 @@
 
 bool is_power_of_three(int number) {
 
-	if (number <= 0) {
+	if (number <= 0 || number % 3 != 0) {
 		return false;
 	}
 

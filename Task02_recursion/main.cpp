@@ -1,6 +1,6 @@
 #include "logic.h"
 
-//developing time: 3 minutes
+//developing time: 22 minutes
 //best case: O(1)
 //worst case: O(N)
 
