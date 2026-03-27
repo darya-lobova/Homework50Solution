@@ -2,8 +2,7 @@
 
 bool is_power_of_three(int number) {
 
-	//basic case
-
+	//base case
 	if (number == 1) {
 		return true;
 	}
